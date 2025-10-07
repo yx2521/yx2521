@@ -2,6 +2,34 @@
 
 ## Hi! I am Yilan
 
+I'm a fresh Cambridge data science graduate currently seeking technical opportunities in London and available to start immediately.
+
+
+## My Journey
+
+I completed a Bachelor's degree in Chemistry at Imperial College London (2021–2024). From analysing data in the lab to developing an interactive VR multiplayer chemistry game in Unity, I saw how powerful computational tools can be. I also realised that much of today’s exciting progress in science comes from the strategic use of data, AI, and well-designed software.
+
+I wanted to contribute to data-driven innovation beyond the chemistry lab. This motivation led me to pursue the MPhil in Data Intensive Science at the University of Cambridge (2024–2025), where I built expertise in statistical modelling, machine learning, and software engineering.
+
+
+## Featured Projects
+
+### 🤖 Deep Learning & Machine Learning
+- [**Explainable AI for Cancer Survival Prediction** (MPhil Thesis)](https://github.com/yx2521/multimodal-survival-prediction)
+- [**LLM Fine-Tuning for Time Series**](https://github.com/yx2521/qwen-timeseries-forecast)
+
+### 📊 Statistical Modeling
+- [**Bayesian Inference for Ancient Calendar Reconstruction**](https://github.com/yx2521/antikythera-calendar-inference)
+- [**Comparative Analysis of Multi-dimensional Likelihood and sWeights Fitting Using Parametric Bootstrapping**](https://github.com/yx2521/likelihood-vs-sweights)
+
+### 💻 Software Engineering
+- [**Automatic Differentiation Package**]()
+
+
+### 🖼️ Image Analysis
+- [**xx**](link)
+
+
 <!--
 **yx2521/yx2521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
