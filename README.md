@@ -20,7 +20,7 @@ I wanted to drive data-driven innovation beyond the chemistry lab. This motivati
 
 ### 📊 Statistical Modeling
 - [**Bayesian Inference for Ancient Calendar Reconstruction**](https://github.com/yx2521/antikythera-calendar-inference)
-- [**Comparative Analysis of Multi-dimensional Likelihood and sWeights Fitting Using Parametric Bootstrapping**](https://github.com/yx2521/likelihood-vs-sweights)
+- [**Comparative Analysis of Multi-dimensional Likelihood and sWeights Fitting**](https://github.com/yx2521/likelihood-vs-sweights)
 
 ### 💻 Software Engineering
 - [**Automatic Differentiation Package**](https://github.com/yx2521/dual-number-autodiff)
