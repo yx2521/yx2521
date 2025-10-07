@@ -23,7 +23,7 @@ I wanted to drive data-driven innovation beyond the chemistry lab. This motivati
 - [**Comparative Analysis of Multi-dimensional Likelihood and sWeights Fitting Using Parametric Bootstrapping**](https://github.com/yx2521/likelihood-vs-sweights)
 
 ### 💻 Software Engineering
-- [**Automatic Differentiation Package**]()
+- [**Automatic Differentiation Package**](https://github.com/yx2521/dual-number-autodiff)
 
 <!--
 ### 🖼️ Image Analysis
