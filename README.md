@@ -1,4 +1,4 @@
-<img src="https://github.com/yx2521/yx2521/blob/main/Github_banner.jpg?raw=true" alt="banner showing Yilan Xu - Naturally Inquisitive Data Scientist">
+<img src="https://github.com/yx2521/yx2521/blob/main/banner.jpg?raw=true" alt="banner showing Yilan Xu - Naturally Inquisitive Data Scientist">
 
 ## Hi, I am Yilan 🪼
 
