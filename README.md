@@ -1,6 +1,6 @@
 <img src="https://github.com/yx2521/yx2521/blob/main/banner.jpg?raw=true" alt="banner showing Yilan Xu - Naturally Inquisitive Data Scientist">
 
-## Hi, I am Yilan 🪼
+## Hi! I am Yilan
 
 <!--
 **yx2521/yx2521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
